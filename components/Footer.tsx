@@ -20,10 +20,10 @@ export default function Footer() {
                 </div>
                 <div className="flex flex-row space-x-3 justify-end items-center pt-3 pr-4">
                     <Link href="https://www.facebook.com/profile.php?id=61571042060366&locale=en_GB">
-                        <IconBrandFacebook stroke={2} className="h-10 w-10 hover:text-[#000500] hover:bg-[#FFDFDC] hover:rounded-3xl hover:w-10"/>                    
+                        <IconBrandFacebook stroke={2} className="h-10 w-10 hover:text-[#000500] hover:bg-[#FFDFDC] hover:rounded-3xl hover:w-10 delay-100 duration-300 ease-in-out hover:-translate-y-1 hover:scale-110"/>                    
                     </Link>
                     <Link href="https://www.instagram.com/ivy_inks_/">
-                        <IconBrandInstagram stroke={2} className="h-10 w-10 hover:text-[#000500] hover:bg-[#FFDFDC] hover:rounded-3xl hover:w-10"/>                     
+                        <IconBrandInstagram stroke={2} className="h-10 w-10 hover:text-[#000500] hover:bg-[#FFDFDC] hover:rounded-3xl hover:w-10 delay-100 duration-300 ease-in-out hover:-translate-y-1 hover:scale-110"/>                     
                     </Link>
                 </div>
                 <div className="flex col-span-2 justify-start align-middle space-x-1.5">

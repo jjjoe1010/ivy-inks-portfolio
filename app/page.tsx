@@ -6,25 +6,36 @@ export default function Home() {
       <main>
         <Container>
           <div className="space-y-10 bg-white py-10">
+            
             <section>
-              <img className="rounded-4xl min-h-157.5" src= "/assets/sarah-profile.jpg" alt="404 Not Found"/>
+              <img className="rounded-4xl min-h-157.5" src= "/assets/sarahPortrait/sarah-profile.jpg" alt="404 Not Found"/>
             </section>
+
             <section className="flex items-center w-full bg-[#FFDFDC] rounded-4xl px-10 pt-10 py-12 min-h-170">
-              <div className=" w-full space-y-7">
-                <p className="text-4xl text-center">
-                  little quote about your work
+              <div className=" w-full space-y-7 text-3xl font-medium text-center">
+                <p >
+                  Hello~!💛✨<br/>
+                  I'm Sarah, welcome to my page!<br/>
                 </p>
-                <p className="text-4xl text-center">
-                  self introduction biography
-                </p>            
+                <p>
+                  Here you can see my work and see if my style matches yours 😎
+                </p>
+                <p>
+                  if youre interested, shoot me a message on facebook or Instagram 📝and we can discus what you want 💛
+                </p>
+                <p>
+                  other words, please enjoy my page ✨
+                </p> 
               </div>
             </section>
+
             <section className="bg-[#9BC1BC] rounded-4xl px-10 pt-10 py-12 items-center min-h-170">
               <h1 className="pb-8 text-4xl">
                 Flash sheet 
               </h1>
-              <img className="relative w-screen " src="/assets/flash-sheet.jpg" alt="404 Not Found"/>
+              <img className="relative w-screen " src="/assets/flashSheet/flash-sheet.jpg" alt="404 Not Found"/>
             </section>
+
             <section className="bg-[#FFDFDC] rounded-4xl px-10 pt-10 py-12 min-h-170">
               <h1 className="pb-8 text-4xl">
                 Where am I?
@@ -70,6 +81,7 @@ export default function Home() {
                     </div>                
                   </div> 
             </section>
+
           </div>
         </Container>
       </main>
