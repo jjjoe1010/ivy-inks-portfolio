@@ -1,15 +1,23 @@
 import Container from "../../components/Container"
 import Carousel from "../../components/Carousel"
 
+//check if the photoes are the same width, 
+//if not the image will bleed into the following slides.
+
 let flashSheet = [
     "assets/flashSheet/cuteAnimals.jpeg",
     "assets/flashSheet/flowers1.jpeg",
     "assets/flashSheet/flowers2.jpeg",
+    "assets/flashSheet/gamesIcon1.jpeg",
+    "assets/flashSheet/gamesIcon2.jpeg",
 ]
 let freshTattoo = [
-    "assets/freashTattoo/bee.jpg",
-    "assets/freashTattoo/fireWood.jpg",
-    "assets/freashTattoo/fish.jpg"
+    "assets/freshTattoo/bee.jpg",
+    "assets/freshTattoo/fireWood.jpg",
+    "assets/freshTattoo/fish.jpg",
+    "assets/freshTattoo/mushroom.jpeg",
+    "assets/freshTattoo/orange.jpeg",
+    "assets/freshTattoo/birdWithTwig.jpg",
 ]
 
 let healedTattoo = [

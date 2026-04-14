@@ -73,7 +73,7 @@ export default function Home() {
                     </div>
                     <div>
                       <p>
-                        Closed
+                        Close
                       </p>
                       <p>
                         10am - 5pm
