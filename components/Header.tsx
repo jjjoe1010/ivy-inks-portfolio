@@ -10,7 +10,7 @@ const [visible, setVisible] = useState(false);
   return (
     <header className="bg-[#FFDFDC]">
         <Container>
-        <div className="flex justify-between items-end pl-4 min-h-40">
+        <div className="flex justify-between items-end pl-4 min-h-30">
             <div>
                 <p className="text-5xl font-semibold ">
                     Ivy Inks

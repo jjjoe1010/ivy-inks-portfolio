@@ -22,13 +22,13 @@ export default function Gallery() {
     <main>
             <Container>
                 <div className="space-y-10 bg-white py-10">
-                    <section className="bg-[#9BC1BC] rounded-4xl px-10 pt-10 py-12 items-center min-h-170">
+                    <section className="bg-[#9BC1BC] rounded-4xl px-10 pt-10 py-12 items-center min-h-100">
                     <h1 className="pb-8 text-4xl">
                         This is my gallery for my work &lt;3
                     </h1>
-                    <img className="relative w-screen max-w-200" src="assets/sarahPortrait/sarah-about-picture.jpg" alt="404 Not Found"/>
+                    <img className="relative w-screen " src="assets/sarahPortrait/sarah-about-picture.jpg" alt="404 Not Found"/>
                     </section>  
-                    <section className="bg-[#FFDFDC] rounded-4xl px-10 pt-10 py-12 items-center min-h-170">
+                    <section className="bg-[#FFDFDC] rounded-4xl px-10 pt-10 py-12 items-center min-h-150">
                         <h1 className="pb-8 text-4xl">
                             Past flash sheets &lt;3
                         </h1>
@@ -36,7 +36,7 @@ export default function Gallery() {
                             <Carousel slides={flashSheet}/>
                         </div>
                     </section>
-                    <section className="bg-[#9BC1BC] rounded-4xl px-10 pt-10 py-12 items-center min-h-170">
+                    <section className="bg-[#9BC1BC] rounded-4xl px-10 pt-10 py-12 items-center min-h-150">
                         <h1 className="pb-8 text-4xl">
                             Fresh tattoo &lt;3
                         </h1>
@@ -44,7 +44,7 @@ export default function Gallery() {
                             <Carousel slides={freshTattoo}/>
                         </div>
                     </section>
-                    <section className="bg-[#FFDFDC] rounded-4xl px-10 pt-10 py-12 items-center min-h-170">
+                    <section className="bg-[#FFDFDC] rounded-4xl px-10 pt-10 py-12 items-center min-h-150">
                         <h1 className="pb-8 text-4xl">
                             Healed tattoo with review
                         </h1>

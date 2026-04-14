@@ -7,14 +7,14 @@ export default function About() {
             <Container>
                 <div className="space-y-10 bg-white py-10">
 
-                    <section className="bg-[#9BC1BC] rounded-4xl px-10 pt-10 py-12 items-center min-h-170">
+                    <section className="bg-[#9BC1BC] rounded-4xl px-10 pt-10 py-12 items-center min-h-150">
                     <h1 className="pb-8 text-4xl">
                         Hi, Im Sarah! &lt;3
                     </h1>
                     <img className="relative w-screen " src="assets/sarahPortrait/sarah-about-picture.jpg" alt="404 Not Found"/>
                     </section>  
 
-                    <section className="flex items-center w-full bg-[#FFDFDC] rounded-4xl px-10 pt-10 py-12 min-h-170">
+                    <section className="flex items-center w-full bg-[#FFDFDC] rounded-4xl px-10 pt-10 py-12 min-h-150">
                       <div className=" w-full space-y-7 ">                        
                         <h1 className="pb-8 text-4xl">
                             Little about me
@@ -44,14 +44,14 @@ export default function About() {
                     </div>
                     </section>
 
-                    <section className="bg-[#9BC1BC] rounded-4xl px-10 pt-10 py-12 items-center min-h-170">
+                    <section className="bg-[#9BC1BC] rounded-4xl px-10 pt-10 py-12 items-center min-h-150">
                         <h1 className="pb-8 text-4xl">
                             Also these are my cats! &lt;3
                         </h1>  
                     <img className="relative w-screen " src="assets/ponyoAndPumpkin.jpg" alt="404 Not Found"/>
                     </section>   
 
-                    <section className=" bg-[#FFDFDC] rounded-4xl px-10 pt-10 py-12 min-h-170">
+                    <section className=" bg-[#FFDFDC] rounded-4xl px-10 pt-10 py-12 min-h-150">
                     <div className=" w-full space-y-7">
                         <h1 className="pb-8 text-4xl">
                             After care

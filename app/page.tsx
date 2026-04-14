@@ -8,10 +8,10 @@ export default function Home() {
           <div className="space-y-10 bg-white py-10">
             
             <section>
-              <img className="rounded-4xl min-h-157.5" src= "/assets/sarahPortrait/sarah-profile.jpg" alt="404 Not Found"/>
+              <img className="rounded-4xl min-h-130 aspect" src= "/assets/sarahPortrait/sarah-about-picture.jpg" alt="404 Not Found"/>
             </section>
 
-            <section className="flex items-center w-full bg-[#FFDFDC] rounded-4xl px-10 pt-10 py-12 min-h-170">
+            <section className="flex items-center w-full bg-[#FFDFDC] rounded-4xl px-10 pt-10 py-12 min-h-150">
               <div className=" w-full space-y-7 text-3xl font-medium text-center">
                 <p >
                   Hello~!💛✨<br/>
@@ -29,14 +29,14 @@ export default function Home() {
               </div>
             </section>
 
-            <section className="bg-[#9BC1BC] rounded-4xl px-10 pt-10 py-12 items-center min-h-170">
+            <section className="bg-[#9BC1BC] rounded-4xl px-10 pt-10 py-12 items-center min-h-150">
               <h1 className="pb-8 text-4xl">
                 Flash sheet 
               </h1>
               <img className="relative w-screen " src="/assets/flashSheet/flash-sheet.jpg" alt="404 Not Found"/>
             </section>
 
-            <section className="bg-[#FFDFDC] rounded-4xl px-10 pt-10 py-12 min-h-170">
+            <section className="bg-[#FFDFDC] rounded-4xl px-10 pt-10 py-12 min-h-150">
               <h1 className="pb-8 text-4xl">
                 Where am I?
               </h1>
