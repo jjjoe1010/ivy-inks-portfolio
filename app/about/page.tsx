@@ -23,7 +23,6 @@ export default function About() {
                             <p >
                                 Hello~!💛✨<br/>
                                 I'm Sarah, but you'll probrably know me as Ivy🌿<br/>
-                                I've been tattooing for a few years. 📆<br/>
                                 I'm very passionate about creating bold, very cute, colourful tattoos!💛🎨
                             </p>
                             <p>

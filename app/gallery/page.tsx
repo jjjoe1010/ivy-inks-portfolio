@@ -12,17 +12,16 @@ let flashSheet = [
     "assets/flashSheet/gamesIcon2.jpeg",
 ]
 let freshTattoo = [
-    "assets/freshTattoo/bee.jpg",
     "assets/freshTattoo/fireWood.jpg",
     "assets/freshTattoo/fish.jpg",
     "assets/freshTattoo/mushroom.jpeg",
     "assets/freshTattoo/orange.jpeg",
-    "assets/freshTattoo/birdWithTwig.jpg",
+
 ]
 
 let healedTattoo = [
     "assets/healedTattoo/ladybug.jpeg",
-    "assets/healedTattoo/moth.jpeg"
+    "assets/healedTattoo/birdWithTwig.jpg",
 ] 
 
 export default function Gallery() {
