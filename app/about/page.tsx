@@ -57,7 +57,7 @@ export default function About() {
                         </h1>
                         <div className="flex items-center w-full text-2xl text-center">
                             <p>
-                                Blah blah blah
+                                under thinking ...
                             </p>                                 
                         </div>
                     </div>

@@ -1,9 +1,10 @@
-import Image from "next/image";
+import { Analytics } from "@vercel/analytics/next"
 import Container from "../components/Container"
 
 export default function Home() {
   return (
       <main>
+        <Analytics />
         <Container>
           <div className="space-y-10 bg-white py-10">
             
