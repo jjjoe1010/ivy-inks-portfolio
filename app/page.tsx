@@ -24,6 +24,12 @@ export default function Home() {
                   if youre interested, shoot me a message on facebook or Instagram 📝and we can discus what you want 💛
                 </p>
                 <p>
+                  Information I will need: <br/> 
+                  - placement<br/>
+                  - ⁠size<br/>
+                  - ⁠a reference of your  idea
+                </p>
+                <p>
                   other words, please enjoy my page ✨
                 </p> 
               </div>
