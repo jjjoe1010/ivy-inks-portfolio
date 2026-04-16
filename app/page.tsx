@@ -7,8 +7,8 @@ export default function Home() {
         <Container>
           <div className="space-y-10 bg-white py-10">
             
-            <section>
-              <img className="rounded-4xl min-h-130 aspect" src= "/assets/sarahPortrait/sarah-about-picture.jpg" alt="404 Not Found"/>
+            <section className="">
+              <img className="rounded-4xl min-h-130 aspect flex relative w-screen object-center justify-center " src= "/assets/sarahPortrait/meetTheArtistPost.jpeg" alt="404 Not Found"/>
             </section>
 
             <section className="flex items-center w-full bg-[#FFDFDC] rounded-4xl px-10 pt-10 py-12 min-h-150">

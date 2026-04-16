@@ -11,7 +11,7 @@ export default function About() {
                     <h1 className="pb-8 text-4xl">
                         Hi, Im Sarah! &lt;3
                     </h1>
-                    <img className="relative w-screen " src="assets/sarahPortrait/sarah-about-picture.jpg" alt="404 Not Found"/>
+                    <img className="relative w-screen " src="assets/sarahPortrait/sarahTattooing.jpeg" alt="404 Not Found"/>
                     </section>  
 
                     <section className="flex items-center w-full bg-[#FFDFDC] rounded-4xl px-10 pt-10 py-12 min-h-150">

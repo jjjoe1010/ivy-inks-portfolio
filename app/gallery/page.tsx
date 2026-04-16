@@ -33,7 +33,7 @@ export default function Gallery() {
                     <h1 className="pb-8 text-4xl">
                         This is my gallery for my work &lt;3
                     </h1>
-                    <img className="relative w-screen " src="assets/sarahPortrait/sarah-about-picture.jpg" alt="404 Not Found"/>
+                    <img className="relative w-screen " src="assets/sarahPortrait/sarahTattooing.jpeg" alt="404 Not Found"/>
                     </section>  
                     <section className="bg-[#FFDFDC] rounded-4xl px-10 pt-10 py-12 items-center min-h-150">
                         <h1 className="pb-8 text-4xl">
